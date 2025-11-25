@@ -7,9 +7,11 @@ Identification Number), state of registration, condition rating, odometer readin
 interior colors, seller information, Manheim Market Report (MMR) values, selling prices, and 
 sale dates.
 
-#Dataset
+# Tools
 
-##Column name discription :
+snowflake
+
+# Variable Discription :
 
 YEAR-The manufacturing year of the car — when it was built.
 
@@ -28,7 +30,6 @@ VIN-Vehicle Identification Number — a unique identifier for each car.
 STATE-	The U.S. state in which the car was sold (or where the auction took place). 
 
 CONDITION	-Numeric rating of the car’s condition at the time of sale. (In similar datasets, this is often on a scale, e.g., 1–5, where higher is better.) 
-
 
 ODOMETER-The odometer reading — how many miles (or kilometers) the car has traveled. 
 
