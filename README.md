@@ -9,7 +9,7 @@ sale dates.
 
 # Tools
 
-snowflake
+snowflake SQL
 
 # Variable Discription :
 
